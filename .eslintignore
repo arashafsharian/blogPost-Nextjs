@@ -1,2 +1,3 @@
-# Ignore generated Prisma client code
+# Ignore generated Prisma client
 lib/generated/prisma/*
+prisma/generated/*
